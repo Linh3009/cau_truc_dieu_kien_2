@@ -1,1 +1,1 @@
-# cau_truc_dieu_kien_2
+# luyen_tap_cau_truc_dieu_kien_2
